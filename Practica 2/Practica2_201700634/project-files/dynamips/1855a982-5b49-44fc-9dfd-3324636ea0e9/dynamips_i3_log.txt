@@ -1,0 +1,20 @@
+Apr 07 20:34:12.273 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Apr 07 20:34:12.274 HYPERVISOR: Started on IP = localhost, TCP port = 50965.
+Apr 07 20:34:12.767 HYPERVISOR: exec_cmd: hypervisor version 
+Apr 07 20:34:12.767 HYPERVISOR: exec_cmd: hypervisor working_dir D:\escritorio\Practica 2\Practica2_201700634\project-files\dynamips 
+Apr 07 20:34:12.767 GENERAL: working_dir=D:\escritorio\Practica 2\Practica2_201700634\project-files\dynamips
+Apr 07 20:34:12.768 HYPERVISOR: exec_cmd: hypervisor working_dir D:\escritorio\Practica 2\Practica2_201700634\project-files\dynamips\1855a982-5b49-44fc-9dfd-3324636ea0e9 
+Apr 07 20:34:12.768 GENERAL: working_dir=D:\escritorio\Practica 2\Practica2_201700634\project-files\dynamips\1855a982-5b49-44fc-9dfd-3324636ea0e9
+Apr 07 20:34:12.769 HYPERVISOR: exec_cmd: vm create R3 3 c3600 
+Apr 07 20:34:12.772 VM: VM R3 created.
+Apr 07 20:34:12.772 HYPERVISOR: exec_cmd: vm set_con_tcp_port R3 5002 
+Apr 07 20:34:12.773 HYPERVISOR: exec_cmd: c3600 get_mac_addr R3 
+Apr 07 20:34:12.773 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Apr 07 20:34:12.774 HYPERVISOR: exec_cmd: vm set_exec_area R3 64 
+Apr 07 20:34:12.774 HYPERVISOR: exec_cmd: vm set_ram R3 192 
+Apr 07 20:34:12.774 HYPERVISOR: exec_cmd: vm set_nvram R3 256 
+Apr 07 20:34:12.825 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Apr 07 20:34:14.398 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Apr 07 20:34:19.035 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Apr 07 20:34:31.142 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
+Apr 07 20:34:32.509 HYPERVISOR: exec_cmd: vm set_ios R3 C:/Users/cesarchs/GNS3/images/IOS/c3640-ik9o3s-mz124-13.image 
